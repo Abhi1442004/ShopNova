@@ -10,7 +10,7 @@ const OrderSuccess = ({ orderId }: { orderId: string }) => {
                 <span className="font-bold">{orderId}</span>
             </p>
             <p className="mt-4 text-4xl font-bold pc-sm:text-3xl tablet-sm:text-xl">
-                Thank you for shopping with ShopPal!
+                Thank you for shopping with ShopNova!
             </p>
             <Link
                 to={'/'}

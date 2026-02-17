@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="./assets/preview.png/">
-    <h1>ShopPal - Shop Smarter, Shop ShopPal!</h1>
+    <img src="/logo.png" />
+    <h1>ShopNova - Shop Smarter, Shop ShopNova!</h1>
     <h3>
-        <a href="https://shoppal-ui.netlify.app/" color="white">
+        <a href="https://shopnova-ui.netlify.app/" color="white">
         Live
         </a>
         <span> | </span>
@@ -18,7 +18,7 @@
 
 ## 🧐 Introduction <a name = "introduction"></a>
 
-ShopPal is a full-stack e-commerce web application developed as a final project at [Holon Institute of Technology (HIT)](https://www.hit.ac.il/). It is built with modern web and backend technologies and offers a seamless fake shopping experience for clothing, electronics, home goods, and more.
+ShopNova is a full-stack e-commerce web application developed as a final project at [Holon Institute of Technology (HIT)](https://www.hit.ac.il/). It is built with modern web and backend technologies and offers a seamless fake shopping experience for clothing, electronics, home goods, and more.
 
 ## ⛏️ Technologies Used
 
@@ -89,7 +89,7 @@ ShopPal is a full-stack e-commerce web application developed as a final project 
 - [x] **Checkout Process**: Users can simulate a purchase by entering fake payment information and completing the checkout process.
 - [x] **Order History**: Registered users can view their order history and see the status of their past purchases.
 - [x] **Account Management**: Registered users can update their account information, including their full name, user name, email, password, avatar image, delivery address, and fake payment information.
-- [x] **Responsive Design**: ShopPal is designed to be responsive and accessible on all devices, including desktops, tablets, and smartphones.
+- [x] **Responsive Design**: ShopNova is designed to be responsive and accessible on all devices, including desktops, tablets, and smartphones.
 
 ## 🙏 Acknowledgements <a name ="acknowledgements"></a>
 
@@ -100,8 +100,8 @@ ShopPal is a full-stack e-commerce web application developed as a final project 
 
 ## 🎉 Contributors <a name="contributors"></a>
 
-<a href="https://github.com/MaorBezalel/ShopPal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MaorBezalel/ShopPal" />
+<a href="https://github.com/MaorBezalel/ShopNova/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MaorBezalel/ShopNova" />
 </a>
 
 ## 📄 License <a name="license"></a>

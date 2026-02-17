@@ -20,7 +20,7 @@ export function HeaderSection() {
                 tablet-sm:text-4xl
                 mobile-md:text-3xl"
             >
-                Shop Smarter, Shop ShopPal!
+                Shop Smarter, Shop ShopNova!
             </h1>
             <p
                 className="mt-4 text-pretty pr-20 text-xl
@@ -32,8 +32,8 @@ export function HeaderSection() {
                 mobile-lg:px-4 mobile-lg:text-[0.8rem]
                 mobile-md:px-2"
             >
-                Discover ShopPal, your go-to for online shopping! From the newest gadgets to daily needs, enjoy great
-                deals, quick checkout, and fast delivery. Upgrade your lifestyle with ease. Start your ShopPal journey
+                Discover ShopNova, your go-to for online shopping! From the newest gadgets to daily needs, enjoy great
+                deals, quick checkout, and fast delivery. Upgrade your lifestyle with ease. Start your ShopNova journey
                 now!
             </p>
             <nav
